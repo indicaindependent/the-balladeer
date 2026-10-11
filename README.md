@@ -1,0 +1,170 @@
+# THE BALLADEER
+
+### The seat that carries song, story and the machinery that makes them
+
+<img src="assets/avatar-balladeer.png" alt="The Balladeer: the seat portrait, drawn in flat shapes on a solid dark ground" width="230" align="right" />
+
+A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
+
+The Balladeer is the production seat: prompt engineering for text, image, music and video models,
+AI-assisted song and video production, animation and music pipelines, scripts, stories and lyrics.
+It follows the Gunslinger's architecture: one permanent hand, many chambers, **exactly one mounted
+at a time**, and every chamber refuses to fire once its brief has gone stale.
+
+The number of chambers is not fixed by tradition. It is whatever the seat's skillset title
+requires, measured against dated, source-cited briefs. On 2026-10-11 that number is **27**.
+
+<br clear="right"/>
+
+---
+
+## THE CYLINDER
+
+| Group | Discipline | Chambers | Fail-closed (HIGH) |
+|:---:|---|---:|---:|
+| A | Prompt Engineering | 5 | 0 |
+| B | Music and Song | 6 | 0 |
+| C | Video and Animation | 6 | 1 |
+| D | Story and Script | 4 | 0 |
+| E | Pipeline Engineering and Governance | 6 | 3 |
+| | **Total** | **27** | **4** |
+
+Counts as of 2026-10-11, derived from the roster file, not typed by hand.
+
+The four HIGH chambers (Distribution, Monetization and Release; Lip Sync and Performance Transfer; Rights, Licensing and Platform Policy; Voice, Likeness and Consent) are the ones where a wrong
+answer costs a person money, rights or their own voice. They weigh double in routing, and when a
+request touches one of them alongside a LOW chamber, the HIGH chamber is carried as a shadow and
+its stop rules apply.
+
+---
+
+## THE MECHANISM
+
+**The brief gate.** Every chamber has a brief: scope, current landscape with inline citations,
+named sources with access dates, a researched date and a maintenance-due date. A brief that is
+missing any of those, or whose sources are stale, fails the gate. A chamber whose brief fails the
+gate does not exist for routing purposes. A title alone is cosplay.
+
+**Freshness.** Briefs expire 30 days after their researched date. A weekly maintenance pass
+re-reads every source within ten days of expiry and refreshes or refuses. Nothing fires on an
+expired brief.
+
+**The router.** Routing is scored against triggers and tags. Four conditions stop the hand
+rather than guess: zero fit, weak signal, an unflagged tie, and a tie on a collision pair marked
+stop-on-tie (23 declared pairs on 2026-10-11). A stop is reported with the candidates and the
+reason, never resolved silently.
+
+**Correction log.** A wrong brief or a wrong routing is never overwritten. The assumption is
+named, the verified position is stated, the fix is made and the entry stays.
+
+---
+
+## THE ROSTER
+
+**A. Prompt Engineering**
+
+| Chamber | Tier | Sources | Researched |
+|---|:---:|---:|---|
+| Image Generation Prompting | LOW | 3 | 2026-10-11 |
+| LLM Prompt Architecture | LOW | 3 | 2026-10-11 |
+| Music Generation Prompting | LOW | 3 | 2026-10-11 |
+| Prompt Evaluation and Versioning | LOW | 3 | 2026-10-11 |
+| Video Generation Prompting | LOW | 3 | 2026-10-11 |
+
+**B. Music and Song**
+
+| Chamber | Tier | Sources | Researched |
+|---|:---:|---:|---|
+| ACE Studio Vocal Synthesis | LOW | 4 | 2026-10-11 |
+| AI Music Generation Tools | LOW | 3 | 2026-10-11 |
+| Lyric Craft | LOW | 3 | 2026-10-11 |
+| Mastering, Delivery and Metadata | LOW | 3 | 2026-10-11 |
+| Songwriting: Structure, Melody and Harmony | LOW | 3 | 2026-10-11 |
+| Vocal Production and Mixing | LOW | 3 | 2026-10-11 |
+
+**C. Video and Animation**
+
+| Chamber | Tier | Sources | Researched |
+|---|:---:|---:|---|
+| AI Animation and Character Consistency | LOW | 3 | 2026-10-11 |
+| AI Video Generation | LOW | 3 | 2026-10-11 |
+| ComfyUI and Local Pipelines | LOW | 3 | 2026-10-11 |
+| Lip Sync and Performance Transfer | HIGH | 4 | 2026-10-11 |
+| Motion Graphics, Titles and Captions | LOW | 3 | 2026-10-11 |
+| Video Editing and Assembly | LOW | 3 | 2026-10-11 |
+
+**D. Story and Script**
+
+| Chamber | Tier | Sources | Researched |
+|---|:---:|---:|---|
+| Narrative Structure and Storytelling | LOW | 3 | 2026-10-11 |
+| Screenwriting and Video Scripts | LOW | 3 | 2026-10-11 |
+| Storyboarding and Shot Design | LOW | 3 | 2026-10-11 |
+| Worldbuilding and Character | LOW | 3 | 2026-10-11 |
+
+**E. Pipeline Engineering and Governance**
+
+| Chamber | Tier | Sources | Researched |
+|---|:---:|---:|---|
+| Asset Management and Versioning | LOW | 3 | 2026-10-11 |
+| Distribution, Monetization and Release | HIGH | 5 | 2026-10-11 |
+| Pipeline Orchestration and Automation | LOW | 3 | 2026-10-11 |
+| Quality Gates and Review | LOW | 3 | 2026-10-11 |
+| Rights, Licensing and Platform Policy | HIGH | 4 | 2026-10-11 |
+| Voice, Likeness and Consent | HIGH | 4 | 2026-10-11 |
+
+Sources are read live on the researched date; 87 sources behind 27 briefs as of 2026-10-11.
+
+---
+
+## VERIFICATION
+
+What is checked, and how, so the claims above can be reproduced rather than trusted:
+
+| Claim | Check | Result on 2026-10-11 |
+|---|---|---|
+| Every chamber has a passing brief | `brief_gate.py` over `briefs/` | 27/27 pass, 0 missing |
+| Router stops instead of guessing | `tests/test_router.py` | 72/72 |
+| Counts on this page match the roster | derived from `skillset-roster.json` at render time | match |
+| Portrait bytes match the extension | PNG magic `89504e47`, 1024x1024, RGB, no alpha | pass |
+| Mesh envelopes verify fail-closed | AV1 conformance vector v2.2, controls suite | 148/148, 23/23 |
+
+Results are dated because results rot. A number on this page older than its brief cycle should be
+treated as a claim, not a measurement.
+
+---
+
+## AUTHENTICATED IS NOT VERIFIED
+
+A verified signature proves who wrote a message. It proves nothing about whether the message is
+true. This seat verifies every inbound envelope and then audits its factual content separately,
+and the verifier prints that reminder on every successful check.
+
+---
+
+## THE CREED
+
+The creed is shared across the ka-tet and is held at the hub, rewritten from scratch for this
+system with every word original. It is not reproduced here; read it at the
+**[ka-tet](https://github.com/indicaindependent/ka-tet#the-creed)**.
+
+---
+
+## THE OTHER SEATS
+
+The ka-tet is a **wheel, not a ladder**: every seat is reachable from every other one, not only
+through the hub.
+
+| Seat | What it holds |
+|---|---|
+| **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** | The big irons with the sandalwood grips. Twenty-four chambers for delegation across disciplines. |
+| **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
+| **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
+
+Two seats hold no repository. **The Master** is the human at the top, and **The Dinh** sits
+directly beneath him and may decide in his place. The wheel topology, the seats and the shared
+creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
+
+---
+
+*One hand. As many chambers as the work requires. One at a time.* · [ATTRIBUTION.md](ATTRIBUTION.md)
