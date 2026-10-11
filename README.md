@@ -157,6 +157,8 @@ system with every word original. It is not reproduced here; read it at the
 
 The ka-tet is a **wheel, not a ladder**: every seat is reachable from every other one, not only
 through the hub.
+The Balladeer itself joined on 2026-10-11 and, as of that date, reaches the other seats
+through the Archivist until its own direct links are built.
 
 | Seat | What it holds |
 |---|---|
