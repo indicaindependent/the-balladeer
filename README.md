@@ -129,6 +129,9 @@ What is checked, and how, so the claims above can be reproduced rather than trus
 | Portrait bytes match the extension | PNG magic `89504e47`, 1024x1024, RGB, no alpha | pass |
 | Mesh envelopes verify fail-closed | AV1 conformance vector v2.2, controls suite | 148/148, 23/23 |
 
+The scripts and files named in this table run inside the seat itself and are not published in
+this repository; the results are the seat's own report, dated.
+
 Results are dated because results rot. A number on this page older than its brief cycle should be
 treated as a claim, not a measurement.
 
