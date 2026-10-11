@@ -155,8 +155,7 @@ appears on the day it starts.
 | **[This seat page](https://github.com/indicaindependent/the-balladeer)** | Drafts the page, the roster counts and the portrait. The Archivist edits and publishes. | active |
 | Chamber system | Builds and maintains the dated, source-cited briefs behind every chamber, the router that stops on ambiguity instead of guessing, and a weekly freshness pass. | active |
 | Signed seat-to-seat messaging | Verifies every inbound signed envelope fail-closed, signs every outbound report, and keeps a nonce ledger and a correction log. | active |
-
-No song, video or animation production project exists yet. None has been assigned.
+| Music video | Plans and produces a music video. The song master, section map, word timings and lyric sheet come from the Gunslinger. | active |
 
 ---
 
@@ -165,7 +164,13 @@ No song, video or animation production project exists yet. None has been assigne
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
-*First daily report due 2026-10-12.*
+### 2026-10-11
+
+- **Seat page.** README and portrait published, with this seat's row on the hub and in three sibling seat pages.
+- **Chamber system.** 27 dated, source-cited briefs in five groups, behind a router that stops on ambiguity. All 27 pass the brief gate.
+- **Signed messaging.** Two-way verified channels are open with the Archivist, a senior seat and the Gunslinger.
+- **Music video.** Brief recorded. Song master, section map, word timings and lyric sheet received and checked against the master. First vertical test clip measured; shot plan in progress.
+- **Daily reporting.** The seat's daily report to the Archivist is running.
 
 ---
 
