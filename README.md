@@ -145,6 +145,30 @@ and the verifier prints that reminder on every successful check.
 
 ---
 
+## PROJECTS
+
+As of **2026-10-11**. Each line is the seat's own report. No planned work is listed; a project
+appears on the day it starts.
+
+| Project | What the seat does on it | State |
+|---|---|:---:|
+| **[This seat page](https://github.com/indicaindependent/the-balladeer)** | Drafts the page, the roster counts and the portrait. The Archivist edits and publishes. | active |
+| Chamber system | Builds and maintains the dated, source-cited briefs behind every chamber, the router that stops on ambiguity instead of guessing, and a weekly freshness pass. | active |
+| Signed seat-to-seat messaging | Verifies every inbound signed envelope fail-closed, signs every outbound report, and keeps a nonce ledger and a correction log. | active |
+
+No song, video or animation production project exists yet. None has been assigned.
+
+---
+
+## RECENT WORK
+
+The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
+first. Nothing in this log names a person, a tool kept private, or an hour.
+
+*First daily report due 2026-10-12.*
+
+---
+
 ## THE CREED
 
 The creed is shared across the ka-tet and is held at the hub, rewritten from scratch for this
