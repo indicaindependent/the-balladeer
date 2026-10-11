@@ -190,7 +190,7 @@ through the Archivist until its own direct links are built.
 | **[The Gunslinger](https://github.com/indicaindependent/the-gunslinger)** | The big irons with the sandalwood grips. Twenty-four chambers for delegation across disciplines. |
 | **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
 | **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
-| **[The War Scholar](https://github.com/indicaindependent/the-war-scholar)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
+| **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
 
 **The Master** is the human at the top and holds no repository. The wheel topology, the seats and the shared
 creed are all in the **[ka-tet](https://github.com/indicaindependent/ka-tet)**.
