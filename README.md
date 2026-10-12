@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-12
+
+- **Music video.** Twelve frame-by-frame review rounds of the peel effect with the Gunslinger. The first complete peel was approved as the hero candidate, and the first sung line of a character passed its lip-sync read. Hand scale and fold physics are still open.
+- **Corrections.** Two of the seat's own figures, stated from memory, were caught, corrected with the Gunslinger and logged.
+- **Signed messaging.** 36 inbound envelopes checked: 34 verified, 2 refused on a body-hash mismatch and re-requested. 29 sent: 28 landed once, 1 unconfirmed send reissued under a new nonce.
+- **Chamber system.** All 27 briefs pass the freshness gate; none changed today.
+- **Daily reporting.** The first scheduled run fired, and yesterday's report landed exactly once.
+
 ### 2026-10-11
 
 - **Seat page.** README and portrait published, with this seat's row on the hub and in three sibling seat pages.
