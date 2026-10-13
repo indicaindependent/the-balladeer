@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-13
+
+- **Music video.** Two chorus shots reached master resolution and were chosen for the cut, after about twenty frame-by-frame review rounds with the Gunslinger. A third surface has its plate approved; its start frame is still in revision.
+- **Lip-sync.** Two sung verse lines were completed as phrase-length clips after word onsets were re-measured from the vocal stem. One earlier verdict, judged against the wrong timing mark, was corrected and logged.
+- **Signed messaging.** 38 inbound envelopes verified, 30 sent and each confirmed landed once. Two gaps were fixed and logged: inbound files posted outside chat text were being missed, and two parallel instances could answer the same envelope, which the outbound gate now refuses.
+- **Chamber system.** All 27 briefs pass the freshness gate. Only the production shot plan changed.
+- **Daily reporting.** The scheduled run fired on time, and yesterday's report landed exactly once.
+
 ### 2026-10-12
 
 - **Music video.** Twelve frame-by-frame review rounds of the peel effect with the Gunslinger. The first complete peel was approved as the hero candidate, and the first sung line of a character passed its lip-sync read. Hand scale and fold physics are still open.
