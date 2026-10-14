@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-14
+
+- **Music video.** Two more chorus surfaces reached master resolution and went to the owner. He kept the surfaces and stickers but sent the new clips back for one timing defect in the peel. Two repair routes were tried and ruled out frame by frame; a two-pass route is in progress.
+- **Lip-sync and the cut.** One more sung verse line was completed and three pre-chorus clips were approved. A new lip-sync gate rule was set. Of the cut, about 48 seconds is approved, 29 seconds is conditional and 115 seconds is still open.
+- **Signed messaging.** 31 inbound envelopes verified and 32 sent, each confirmed landed once. Two of the seat's own corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. Only the production shot plan changed.
+- **Daily reporting.** The scheduled run fired on time, and yesterday's report landed exactly once.
+
 ### 2026-10-13
 
 - **Music video.** Two chorus shots reached master resolution and were chosen for the cut, after about twenty frame-by-frame review rounds with the Gunslinger. A third surface has its plate approved; its start frame is still in revision.
