@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-16
+
+- **Music video, first master.** A first finished master was approved for ship after a frame-by-frame read and delivered. The owner then ordered a polish pass: a channel link on both disclaimer cards, a restored solo landing, a cold-open title card and a lip-sync rebuild.
+- **Edit.** Two shots that kept failing review were given one final repair round, failed the gates again, and were cut. The remaining shots were re-conformed into their slots.
+- **Recovery.** The render machine lost power mid-job and was down for several hours. A loss audit found no project files lost, and the machine came back with new safeguards against a repeat.
+- **Signed messaging.** 76 inbound envelope records verified and logged, 71 sent, 68 with a landed record. Nine corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. Only the shot plan and a lyric timing file changed.
+
 ### 2026-10-15
 
 - **Music video, first rough cut.** The first full rough cut was assembled at full vertical resolution with timed captions. The owner cleared it to go on to a finished master, with the quality bar unchanged.
