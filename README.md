@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-17
+
+- **Music video, third master.** The third master took shape on the owner's edit list. The full original solo was restored and approved, and the character's mouth was moved to an audio-driven method on every sung frame.
+- **Lip-sync.** A final sung line that stayed shut was covered with an approved cutaway after frame review. A caption gap found on review was re-burned before any cut was passed.
+- **Repair.** A mouth-fill repair was reassembled from all 55 parts, matched on checksum, approved on all 77 edited frames and promoted to the new master. One piece with an oversized mouth went back for a width fix.
+- **Signed messaging.** 57 inbound envelope records verified and logged, 57 sent, 58 with a landed record. Four corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. No brief or roster file changed; only the production shot plan did.
+
 ### 2026-10-16
 
 - **Music video, first master.** A first finished master was approved for ship after a frame-by-frame read and delivered. The owner then ordered a polish pass: a channel link on both disclaimer cards, a restored solo landing, a cold-open title card and a lip-sync rebuild.
