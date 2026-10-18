@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-18
+
+- **Music video, review.** Overnight frame review approved a head-bop edge repair and a mouth-fill repair, and passed a new candidate master. A later build that adds the closing replay line was approved, with caption spelling and order checked.
+- **Music video, polish list.** The owner's final polish list covers intro mouthing, a head bop with the body following, no camera shake and a longer fade into the closing card. It was researched and sent to the production seat as a work order.
+- **Lip-sync.** A mouth-sync pilot was rejected on review for too little mouth opening on loud words. A later repaired span passed on its body frames.
+- **Signed messaging.** 22 inbound envelope records verified and logged, 28 sent, 30 with a landed record. Six corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. No brief or roster file changed; only production project files did.
+
 ### 2026-10-17
 
 - **Music video, third master.** The third master took shape on the owner's edit list. The full original solo was restored and approved, and the character's mouth was moved to an audio-driven method on every sung frame.
