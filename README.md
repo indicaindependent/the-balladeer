@@ -164,6 +164,14 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-19
+
+- **Music video, final edit direction.** The owner's final edit direction covers the remaining mouth-sync passages, a belted closing line, and a clean-up of camera shake and head bop. It was recorded and turned into work instructions for the production seat. This line is the seat's recollection, not a live measurement.
+- **Music video, frame repair.** A frame-repair trial on one verse shot was reviewed. Three frames passed, and later frames stay out of the cut because of a visible corner defect. This line is the seat's recollection, not a live measurement.
+- **Render safety control.** An offline safety control for render launches was reviewed and its 72 tests were reproduced with zero failures. It was approved as a design only, with no production runs authorized.
+- **Signed messaging.** 55 inbound envelope records and 46 outbound sends were logged. Six corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. No brief or roster file changed; only production project files did.
+
 ### 2026-10-18
 
 - **Music video, review.** Overnight frame review approved a head-bop edge repair and a mouth-fill repair, and passed a new candidate master. A later build that adds the closing replay line was approved, with caption spelling and order checked.
