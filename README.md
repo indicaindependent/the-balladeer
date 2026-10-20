@@ -164,6 +164,13 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-20
+
+- **Render safety control.** A one-line timeout-reporting repair to the render launch safety control was reviewed, and its 12-case offline regression passed with zero failures. This is a reading of the code. No production runs are authorized.
+- **Music video, closing shot.** Exact assembly records for the closing shot were retrieved and hash-checked. They show the remaining visible glitch near the end of the video sits inside one piece, not at a cut.
+- **Signed messaging.** 67 inbound envelope records and 72 outbound sends were logged. Eleven corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. No brief or roster file changed; only production project files did.
+
 ### 2026-10-19
 
 - **Music video, final edit direction.** The owner's final edit direction covers the remaining mouth-sync passages, a belted closing line, and a clean-up of camera shake and head bop. It was recorded and turned into work instructions for the production seat. This line is the seat's recollection, not a live measurement.
