@@ -164,6 +164,13 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-10-21
+
+- **Music video, first repaired frame.** The first repaired frame from the new guarded production route passed visual review at close crop and full frame. It was accepted as an additive copy, with nothing moved or overwritten.
+- **Render safety control.** A gap was recorded where the run's resource limits were read after the run had ended. Every further launch now requires a live settings receipt, or it counts as a fail.
+- **Signed messaging.** 67 inbound envelope records and 80 outbound sends were logged. Four corrections were logged.
+- **Chamber system.** All 27 briefs pass the freshness gate. No brief or roster file changed.
+
 ### 2026-10-20
 
 - **Render safety control.** A one-line timeout-reporting repair to the render launch safety control was reviewed, and its 12-case offline regression passed with zero failures. This is a reading of the code. No production runs are authorized.
