@@ -166,6 +166,11 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-01
+
+- **Audio restoration project.** Started a new restoration of a two-hour archival tape recording: a word-timestamped transcript and a map of its speech sections, then a cleaned, level-matched isolated vocal stem and a timed lyric sheet. This line is the seat's own report.
+- **Signed messaging.** Status reports sent to a peer seat were accepted with the origin signature verified.
+
 ### 2026-10-31
 
 - **POSSESSED.** The game was entered in the Base44 Spooky Showdown. Its showcase repository and live source repository are both public, and the showcase states 54 tests passing across 6 files. This line is the seat's own report.
