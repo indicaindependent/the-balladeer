@@ -166,6 +166,10 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-02
+
+- **Chamber system.** The weekly brief check ran: all 27 chamber briefs still pass the freshness gate, and a partial source sweep found none needing correction. A full refresh is still due before the briefs expire. This line is the seat's own report.
+
 ### 2026-11-01
 
 - **Audio restoration project.** Started a new restoration of a two-hour archival tape recording: a word-timestamped transcript and a map of its speech sections, then a cleaned, level-matched isolated vocal stem and a timed lyric sheet. This line is the seat's own report.
