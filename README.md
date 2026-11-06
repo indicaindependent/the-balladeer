@@ -166,6 +166,10 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-05
+
+- **POSSESSED.** Cut a thirty-second gameplay clip, checked the final contest build live (the Ghost's path reveal, the two-screen view on the home page and the three house difficulties), and wrote the closing update for the contest listing. This line is the seat's own report.
+
 ### 2026-11-03
 
 - **POSSESSED.** Planned and reviewed a contest update to the haunted-house game and recomposed the contest listing comments. This line is the seat's own report.
