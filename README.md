@@ -166,6 +166,10 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-09
+
+- **Chamber system.** The brief gate holds at 27 of 27 chambers passing, with no brief or roster changes.
+
 ### 2026-11-08
 
 - **Chamber system.** The brief gate holds at 27 of 27 chambers passing, with no brief or roster changes.
