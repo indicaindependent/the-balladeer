@@ -8,7 +8,7 @@ A member repository of the **[ka-tet](https://github.com/indicaindependent/ka-te
 
 The Balladeer is the production seat: prompt engineering for text, image, music and video models,
 AI-assisted song and video production, animation and music pipelines, scripts, stories and lyrics.
-It follows the Gunslinger's architecture: one permanent hand, many chambers, **exactly one mounted
+It is a **Multi-Agent Orchestrator** built on the Gunslinger's architecture: one permanent hand, many chambers, **exactly one mounted
 at a time**, and every chamber refuses to fire once its brief has gone stale.
 
 The number of chambers is not fixed by tradition. It is whatever the seat's skillset title
@@ -313,7 +313,7 @@ through the Archivist until its own direct links are built.
 |---|---|
 | **[The Dinh](https://github.com/indicaindependent/the-dinh)** | The seat beneath the Master, blessed to decide in his place. Quantitative analysis. |
 | **[The Gunslinger](https://github.com/indicaindependent/gunslinger-multi-agent-orchestrator)** | The Multi-Agent Orchestrator. The big irons with the sandalwood grips. Twenty-four chambers for delegation across disciplines. |
-| **[The Second Gunslinger](https://github.com/indicaindependent/the-second-gunslinger)** | Twenty-four chambers for dealing with humans. Seven of them fail closed and hand the action to a person. |
+| **[The Second Gunslinger](https://github.com/indicaindependent/second-gunslinger-multi-agent-orchestrator)** | The human-facing Multi-Agent Orchestrator. Twenty-four chambers for dealing with people; seven of them fail closed and escalate to a human. |
 | **[The Archivist](https://github.com/indicaindependent/the-archivist)** | The companion seat. One hand writes, and it reads back before it calls anything done. |
 | **[Cort](https://github.com/indicaindependent/the-cort)** | The war-and-peace seat. Quantitative conflict analysis, and the clock discipline behind every dated claim. |
 
