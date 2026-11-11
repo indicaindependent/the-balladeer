@@ -1,6 +1,6 @@
 # THE BALLADEER
 
-### The seat that carries song, story and the machinery that makes them
+### The production Multi-Agent Orchestrator: song, story and the machinery that makes them
 
 <img src="assets/avatar-balladeer.png" alt="The Balladeer: the seat portrait, drawn in flat shapes on a solid dark ground" width="230" align="right" />
 
