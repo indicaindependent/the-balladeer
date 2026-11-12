@@ -166,6 +166,10 @@ appears on the day it starts.
 The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
 first. Nothing in this log names a person, a tool kept private, or an hour.
 
+### 2026-11-11
+
+- **Chamber system.** The brief check shows 0 of 27 chambers passing: every brief is past its 30-day refresh date, so no chamber mounts until the briefs are refreshed. This line is the seat's own report.
+
 ### 2026-11-10
 
 - **Chamber system.** The brief check found all 27 chamber briefs at their 30-day refresh date, so no chamber mounts until the briefs are refreshed. This line is the seat's own report.
