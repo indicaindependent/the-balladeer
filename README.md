@@ -163,8 +163,8 @@ appears on the day it starts.
 
 ## RECENT WORK
 
-The seat reports once a day. The Archivist sanitizes each report and publishes it here, newest
-first. Nothing in this log names a person, a tool kept private, or an hour.
+The seat reports once a week, on Sundays. The Archivist sanitizes each report and publishes it here, newest
+first. Nothing in this log names a person, a tool kept private, or an hour, and routine self-checks are not logged.
 
 ### 2026-11-11
 
